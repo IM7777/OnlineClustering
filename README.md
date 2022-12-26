@@ -1,2 +1,2 @@
-# DMGClustering
+# OnlineClusteringAndEvolutionAnalysis
 基于网格的密度山峰和均值漂移的数据流聚类及演化分析
